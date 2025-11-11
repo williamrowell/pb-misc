@@ -19,7 +19,6 @@ __version__ = '0.1.0'
 
 MODIFICATIONS = {
   '6mA': [('A', 0, 'a'), ('T', 1, 'a')],  # 6mA is scored asymmetrically
-  '5mC': [('C', 0, 'm')],
 }
 
 
