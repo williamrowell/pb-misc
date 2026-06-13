@@ -6,6 +6,6 @@ pathspec==0.12.1
 pluggy==1.6.0
 pygments==2.19.2
 pysam==0.23.3
-pytest==8.4.2
+pytest==9.0.3
 ruff==0.14.4
 typing-extensions==4.15.0
